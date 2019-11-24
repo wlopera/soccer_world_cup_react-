@@ -1,10 +1,37 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Campeonatos de Mundo de Futbol. 
 
-## Available Scripts
+Este proyecto fue creado con: [Create React App](https://github.com/facebook/create-react-app).
 
-In the project directory, you can run:
+## Requiere del proyecto: 
 
-### `npm start`
+https://github.com/wlopera/SoccerWorldCupServiceRest
+
+### Librerías y herramientas:
+
+* React - Javascript
+* Servicio Rest - Java (https://github.com/wlopera/SoccerWorldCupServiceRest)
+
+### Código
+
+![Captura](https://user-images.githubusercontent.com/7141537/69503016-892cc880-0ee3-11ea-8edf-633923229031.PNG)
+
+### Salida:
+
+![Captura1](https://user-images.githubusercontent.com/7141537/69503018-892cc880-0ee3-11ea-8edb-cc9a878a2469.PNG)
+![Captura2](https://user-images.githubusercontent.com/7141537/69503014-892cc880-0ee3-11ea-90cb-cda65aca82aa.PNG)
+![Captura3](https://user-images.githubusercontent.com/7141537/69503015-892cc880-0ee3-11ea-88c8-19f5cddb65e5.PNG)
+
+### Requiere Servicio Java - Activo:
+
+![Captura4](https://user-images.githubusercontent.com/7141537/69503017-892cc880-0ee3-11ea-8f4d-bdf60c295dad.PNG)
+
+### En construcción 
+
+![data](https://user-images.githubusercontent.com/7141537/48297627-294fb500-e47b-11e8-9d9c-4b184aefd012.png)
+
+## Iniciar
+Para iniciar proyecto:
+### 'npm start'
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
